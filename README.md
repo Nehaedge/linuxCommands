@@ -1,0 +1,2 @@
+# linuxCommands
+all command 
